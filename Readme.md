@@ -7,3 +7,4 @@ Useful UserScripts for tampermonkey.
 - refresh.user.js &rightarrow; This script auto-reload pages after any number of seconds.
 - alertPleaseChat.user.js &rightarrow; This script make a noise if a notification is found.
 - amILoggedOut.user.js &rightarrow; This script make a noise if a Login page is found.
+- getClouderaReport.user.js &rightarrow; This script parse the page of all host inspector and generate a json with the warnings elements of the report.
